@@ -22,7 +22,7 @@
                                 <rect key="frame" x="16" y="812" width="382" height="30"/>
                                 <state key="normal" title="Show"/>
                                 <connections>
-                                    <action selector="show:" destination="c61-cZ-cyq" eventType="touchUpInside" id="sTU-G0-xJZ"/>
+                                    <action selector="show:" destination="c61-cZ-cyq" eventType="touchUpInside" id="dFX-sV-Aq7"/>
                                 </connections>
                             </button>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="NVO-GP-5QG">
@@ -55,8 +55,8 @@
                         <viewLayoutGuide key="safeArea" id="SVT-Xb-Uu4"/>
                     </view>
                     <connections>
-                        <outlet property="idLabel" destination="GBQ-xD-m3M" id="zyc-Xg-ohW"/>
-                        <outlet property="passwordLabel" destination="nR4-E5-e2v" id="Z2T-hL-1hI"/>
+                        <outlet property="idLabel" destination="GBQ-xD-m3M" id="2en-Jt-2oz"/>
+                        <outlet property="passwordLabel" destination="nR4-E5-e2v" id="VKc-9A-bjO"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="lbf-wa-CyK" userLabel="First Responder" sceneMemberID="firstResponder"/>
